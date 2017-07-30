@@ -24,7 +24,7 @@ Our main idea is that we could use only three step to memory our password instea
 
 ![](https://i.imgur.com/nv7xyeS.png)
 
-# Feaure work
+# Feaure Work
 Our FileSaver demo prototype use XOR encryption technology.
 
 Therefore, we will use more security algorithm to encrypt files in the future.
@@ -35,4 +35,8 @@ Therefore, we will use more security algorithm to encrypt files in the future.
 - Basic Javascript 
 - Arduino 
 - Html 
+
+# Team Members
+
+![](https://i.imgur.com/FeNcHNl.png)
 

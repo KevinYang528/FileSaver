@@ -1,3 +1,5 @@
+# 2017 AngelHack Taipei
+
 # FileSaver
 Use a card reader to encrypt your files to reduce a bunch of complex encryption and security technologies.
 
@@ -20,6 +22,9 @@ instead of memory by brain.
 # Demo
 
 [YouTube Demo](https://www.youtube.com/watch?v=Yxo3898we7Q&feature=youtu.be)
+
+# Feaure work
+Use more more security algorithm to encrypt files
 
 # Technologies Used
 - [webduino](https://webduino.io/)

@@ -10,7 +10,7 @@ Hello, we are **EnterTextHere**. This project is **FileSaver**.
 
 Have you ever been that you are keying the password ,but you can’t remember the pass word?
 
-Maybe, you should click the “forgot memory?”, then after the complex process , you got your pass word.  
+Maybe, you should click the “forgot memory?”, then after the complex process , you got your password.  
 
 In this situation, if you have our product “ file saver”,you could avoid this misery.
 

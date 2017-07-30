@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>FileSaver</title>
+  <script src="https://bl0ckly.webduino.io/components/jquery/dist/jquery.min.js"></script>
+  <script src="https://webduino.io/components/webduino-js/dist/webduino-all.min.js"></script>
+  <script src="https://blockly.webduino.io/webduino-blockly.js"></script>
+  <script src="https://blockly.webduino.io/lib/runtime.min.js"></script>
+</head>
+
+<body>
+  <div><span id="hint">Please tag your card to the card reader.</span></div>
+  <form>
+    <textarea id="message" rows="10" cols="30"></textarea>
+    <br>
+    <input type="button" value="Submit" onclick="show()" />
+    <input type="submit" name="button" id="button" value="Reset" /> 
+  </form>
+  <script type="text/javascript" src="FileSaver.js"></script>
+</body>

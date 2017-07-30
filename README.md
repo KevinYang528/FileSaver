@@ -6,7 +6,7 @@ Use a card reader to encrypt your files to reduce a bunch of complex encryption 
 Just three steps, swipe , upload , encrypt!
 
 # Introduction
-Hello, we are **EnterTextHere**. This project name is **FileSaver**
+Hello, we are **EnterTextHere**. This project is **FileSaver**.
 
 Have you ever been that you are keying the password ,but you can’t remember the pass word?
 

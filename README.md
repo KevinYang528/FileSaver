@@ -22,9 +22,9 @@ instead of memory by brain.
 [YouTube Demo](https://www.youtube.com/watch?v=Yxo3898we7Q&feature=youtu.be)
 
 # Technologies Used
-[webduino](https://webduino.io/)
-RFID Modules 
-Basic Javascript 
-Arduino 
-Html 
+-- [webduino](https://webduino.io/)
+-- RFID Modules 
+-- Basic Javascript 
+-- Arduino 
+-- Html 
 

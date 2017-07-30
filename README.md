@@ -20,6 +20,8 @@ Our main idea is that we could use only three step to memory our password instea
 
 [YouTube Demo](https://www.youtube.com/watch?v=Yxo3898we7Q&feature=youtu.be)
 
+![](https://i.imgur.com/nv7xyeS.png)
+
 # Feaure work
 Our FileSaver demo prototype use XOR encryption technology.
 

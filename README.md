@@ -38,5 +38,5 @@ Therefore, we will use more security algorithm to encrypt files in the future.
 
 # Team Members
 
-![](https://i.imgur.com/FeNcHNl.png)
+![](https://i.imgur.com/263FQse.png)
 

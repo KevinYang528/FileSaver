@@ -8,15 +8,12 @@ Just three steps, swipe , upload , encrypt!
 # Introduction
 Hello, we are EnterTextHere. 
 
-Have you ever been that you are keying the password ,
-but you can’t remember the pass word?
-Maybe, you should click the “forgot memory?” 
-,then after the complex process , you got your pass word.  
+Have you ever been that you are keying the password ,but you can’t remember the pass word?
+Maybe, you should click the “forgot memory?”, then after the complex process , you got your pass word.  
 
-In this situation, if you have our product “ file saver”,
-you could avoid this misery.
+In this situation, if you have our product “ file saver”,you could avoid this misery.
 
-our main idea is that we could use only three step to memory our password 
+Our main idea is that we could use only three step to memory our password 
 instead of memory by brain.
 
 # Demo
@@ -24,7 +21,9 @@ instead of memory by brain.
 [YouTube Demo](https://www.youtube.com/watch?v=Yxo3898we7Q&feature=youtu.be)
 
 # Feaure work
-Use more more security algorithm to encrypt files
+Our FileSaver demo prototype use XOR encryption technology.
+
+Therefore, we will use more security algorithm to encrypt files in the future.
 
 # Technologies Used
 - [webduino](https://webduino.io/)
